@@ -1,0 +1,5 @@
+checkpoints/*
+.idea/
+./_.py
+./train.sh
+./test.sh
