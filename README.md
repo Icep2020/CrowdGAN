@@ -1,5 +1,7 @@
 # CrowdGAN
-The official implementation of CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond 
+This is a Pytorch implementation of TPAMI 2021 paper "CrowdGAN: Identity-free Interactive Crowd Video Generation and Beyond".
+Liangyu Chai, Yongtuo Liu, Wenxi Liu, Guoqiang Han, and Shengfeng He*
+
 ## Requirements
 Pytorch 1.4.0+, Python 3.6+
 
